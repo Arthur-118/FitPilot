@@ -7,3 +7,7 @@ Thumbs.db
 .idea/
 *.iml
 ~$*.pptx
+
+# 演讲稿（仅本地使用，不推送到 GitHub）
+FitPilot_Speech.md
+FitPilot_Speech.pdf
